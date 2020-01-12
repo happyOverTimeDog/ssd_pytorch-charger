@@ -1,0 +1,71 @@
+C:\Users\QIQING\Anaconda3\python.exe "C:/Users/QIQING/pycharmProject/ssd_pytorch-master - Copy/map/calculate_map_test.py"
+Reading annotation for 1/300
+Reading annotation for 101/300
+Reading annotation for 201/300
+AP for 带电芯充电宝 = 0.9280
+Reading annotation for 1/300
+Reading annotation for 101/300
+Reading annotation for 201/300
+AP for 不带电芯充电宝 = 0.9307
+Mean AP = 0.9294
+~~~~~~~~
+Results:
+0.928
+0.931
+0.929
+~~~~~~~~
+
+--------------------------------------------------------------
+Results computed with the **unofficial** Python eval code.
+Results should be very close to the official MATLAB eval code.
+--------------------------------------------------------------
+
+Process finished with exit code 0
+
+
+C:\Users\QIQING\Anaconda3\python.exe "C:/Users/QIQING/pycharmProject/ssd_pytorch-master - Copy/map/calculate_map_test.py"
+Reading annotation for 1/300
+Reading annotation for 101/300
+Reading annotation for 201/300
+AP for 带电芯充电宝 = 0.8477
+Reading annotation for 1/300
+Reading annotation for 101/300
+Reading annotation for 201/300
+AP for 不带电芯充电宝 = 0.9186
+Mean AP = 0.8832
+~~~~~~~~
+Results:
+0.848
+0.919
+0.883
+~~~~~~~~
+
+--------------------------------------------------------------
+Results computed with the **unofficial** Python eval code.
+Results should be very close to the official MATLAB eval code.
+--------------------------------------------------------------
+
+Process finished with exit code 0
+C:\Users\QIQING\Anaconda3\python.exe "C:/Users/QIQING/pycharmProject/ssd_pytorch-master - Copy/map/calculate_map_test.py"
+Reading annotation for 1/300
+Reading annotation for 101/300
+Reading annotation for 201/300
+AP for 带电芯充电宝 = 0.7204
+Reading annotation for 1/300
+Reading annotation for 101/300
+Reading annotation for 201/300
+AP for 不带电芯充电宝 = 0.6726
+Mean AP = 0.6965
+~~~~~~~~
+Results:
+0.720
+0.673
+0.697
+~~~~~~~~
+
+--------------------------------------------------------------
+Results computed with the **unofficial** Python eval code.
+Results should be very close to the official MATLAB eval code.
+--------------------------------------------------------------
+
+Process finished with exit code 0
